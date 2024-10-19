@@ -1,0 +1,4 @@
+C:\Users\pragyan.agrawal\OneDrive - Incedo Technology Solutions Ltd\Desktop\ServerSysmondb\x64\Release\ServerSysmondb.exe
+C:\Users\pragyan.agrawal\OneDrive - Incedo Technology Solutions Ltd\Desktop\IncedoSysmonitor files\ServerSysmondb\x64\Release\ServerSysmondb.exe
+E:\notes\vit\sem 2\project system monitering\documentation\IncedoSysmonitor files\ServerSysmondb\x64\Release\ServerSysmondb.exe
+E:\notes\vit\sem 2\project system monitering\documentation\IncedoSysmonitor files\Server_Sys_mondb\x64\Release\ServerSysmondb.exe
