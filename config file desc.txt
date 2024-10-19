@@ -1,0 +1,28 @@
+client:
+Port*
+length of buffer- not variable
+sleep timer at #13- not done
+server properties- AF, Type, Protocol at #85- not necessary
+sin addr(IP Address)*
+msg[size]*
+**********
+sysinteract:
+(1024)
+tmBuff[size]
+cpuThreshold
+
+__________________
+
+server:
+Port
+nArrClient[size]
+length of buffer
+conn
+nSocket (server properties- AF, Type, Protocol) at #419
+
+
+
+
+
+
+
